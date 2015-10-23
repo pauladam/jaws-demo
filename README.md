@@ -2,11 +2,11 @@
 
 This lambda is available at 
 
-    - [https://rp8slt6081.execute-api.us-east-1.amazonaws.com/dev/greetings/hello](https://rp8slt6081.execute-api.us-east-1.amazonaws.com/dev/greetings/hello)
+- [https://rp8slt6081.execute-api.us-east-1.amazonaws.com/dev/greetings/hello](https://rp8slt6081.execute-api.us-east-1.amazonaws.com/dev/greetings/hello)
 
 which is defined by this handler 
 
-    - [https://github.com/pauladam/jaws-demo/blob/master/aws_modules/greetings/hello/index.js](https://github.com/pauladam/jaws-demo/blob/master/aws_modules/greetings/hello/index.js)
+- [https://github.com/pauladam/jaws-demo/blob/master/aws_modules/greetings/hello/index.js](https://github.com/pauladam/jaws-demo/blob/master/aws_modules/greetings/hello/index.js)
 
 # Notes
 
