@@ -1,0 +1,19 @@
+{
+  "name": "jaws-4127HwzWg",
+  "version": "0.0.1",
+  "location": "https://github.com/...",
+  "author": "",
+  "description": "",
+  "domain": "myapp-VJFIrvfW.com",
+  "stages": {
+    "dev": [
+      {
+        "region": "us-east-1",
+        "iamRoleArnLambda": "arn:aws:iam::121316396475:role/dev-jaws-4127HwzWg-r-IamRoleLambda-1FSAB3PF0QKVD",
+        "iamRoleArnApiGateway": "arn:aws:iam::121316396475:role/dev-jaws-4127HwzWg-r-IamRoleApiGateway-1JVGH9EQHO4Q",
+        "jawsBucket": "jaws.dev.useast1.myapp-vjfirvfw.com",
+        "restApiId": "rp8slt6081"
+      }
+    ]
+  }
+}
