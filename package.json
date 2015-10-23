@@ -13,7 +13,6 @@
   "devDependencies": {},
   "dependencies": {
     "jaws-core-js": "~0.0.2",
-    "jshashes": "^1.0.5",
-    "time": "^0.11.4"
+    "jshashes": "^1.0.5"
   }
 }
