@@ -1,6 +1,6 @@
 # JAWS demo
 
-Sample JAWS app built using the [https://github.com/jaws-framework/JAWS](JAWS framework). This lambda is available at: 
+Sample JAWS app built using the [JAWS framework](https://github.com/jaws-framework/JAWS). This lambda is available at: 
 
 - [https://rp8slt6081.execute-api.us-east-1.amazonaws.com/dev/greetings/hello](https://rp8slt6081.execute-api.us-east-1.amazonaws.com/dev/greetings/hello)
 
