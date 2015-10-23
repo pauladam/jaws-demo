@@ -18,7 +18,7 @@ which is defined by this handler
 
 # Deploying the lambda handler
 
-    PaulHowe@plhw-rmbp13 ~/code/jaws-4127HwzWg ±master⚡ » jaws dash
+    $ jaws dash
     JAWS: Dashboard for project "jaws-4127HwzWg"
      -------------------------------------------
      Project Summary
