@@ -30,7 +30,9 @@
       "Method": "GET",
       "AuthorizationType": "none",
       "ApiKeyRequired": false,
-      "RequestTemplates": { "application/json": "{ \"data\": \"$input.params('data')\" }" },
+      "RequestTemplates": {
+        "application/json": "{ \"message\": \"$input.params('m')\" }"
+      },
       "RequestParameters": {},
       "Responses": {
         "400": {

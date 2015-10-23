@@ -18,7 +18,7 @@
         "Timeout": 6,
         "Code": {
           "S3Bucket": "jaws.dev.useast1.myapp-vjfirvfw.com",
-          "S3Key": "JAWS/jaws-4127HwzWg/dev/lambdas/lGreetingsHello@1445617187786.zip"
+          "S3Key": "JAWS/jaws-4127HwzWg/dev/lambdas/lGreetingsHello@1445618001462.zip"
         },
         "Role": {
           "Ref": "aaLambdaRoleArn"
